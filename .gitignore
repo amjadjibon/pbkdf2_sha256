@@ -1,0 +1,8 @@
+.env
+bin/
+.idea
+.vscode
+.settings/
+tsconfig.json
+jsconfig.json
+
